@@ -19,9 +19,9 @@ public class RehoNicoloClass {
 	 * @return r somma
 	 */
 	public int RehoMet(int f) {
-		int r = 1;
-		for(int i=f; i<0;i++) {
-			r = r*i;
+		int r = 0;
+		for(int i=f; i>0;i--) {
+			r = r+i;
 		}
 		return r;
 	}
