@@ -8,7 +8,7 @@
  */
 public class RegoNicolo {
 /**
- * costruttore g RegoNicolo	
+ * costruttore gg RegoNicolo	
  */
 	public RegoNicolo()
 	{}
