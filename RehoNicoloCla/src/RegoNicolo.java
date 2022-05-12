@@ -3,7 +3,7 @@
  * @author <b>Reho Nicolo</b>
  * <U> 4 BI </U>
  * <i>12/05/2022</i>
- * @version 1.0
+ * @version 2.0
  *
  */
 public class RegoNicolo {
