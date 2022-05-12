@@ -3,7 +3,7 @@
  * @author <b>Reho Nicolo</b>
  * <U> 4 BI </U>
  * <i>12/05/2022</i>
- * @version 0.0
+ * @version 1.0
  *
  */
 public class RegoNicolo {
@@ -18,9 +18,9 @@ public class RegoNicolo {
  * @return r sommaotria
  */
 	public int rehoMet(int f) {
-		int r = 1;
-		for(int i=f; i<0; i++) {
-			r = r*1;
+		int r = 0;
+		for(int i=f; i>0; i--) {
+			r = r+1;
 		}
 		return r;
 	}
